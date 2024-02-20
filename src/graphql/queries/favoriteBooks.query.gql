@@ -1,0 +1,7 @@
+#import '../fragments/book.fragment.gql'
+
+query favoriteBooks {
+  favoriteBooks @client {
+    ...BookFragment
+  }
+}

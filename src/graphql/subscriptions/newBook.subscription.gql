@@ -1,0 +1,7 @@
+#import '../fragments/book.fragment.gql'
+
+subscription Subscription {
+  bookSub {
+   ...BookFragment
+  }
+}
