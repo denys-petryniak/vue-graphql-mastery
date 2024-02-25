@@ -1,10 +1,18 @@
 # Vue GraphQL Mastery
 
+<img width="650" alt="image" src="https://github.com/denys-petryniak/vue-graphql-mastery/assets/16530588/972b51b4-1a65-4ca6-8b71-64a2af622e72">
+
 ## Requirements
 
 This project requires [GraphQL Apollo Server](https://github.com/denys-petryniak/graphql-apollo-server) is running.
 
+## Explore in StackBlitz
+
+Click the button below to open the project in StackBlitz for preview and experimentation:
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/denys-petryniak/vue-graphql-mastery)
+
+Feel free to explore the code, make changes, and see the results in real-time!
 
 ## Recommended IDE Setup
 
